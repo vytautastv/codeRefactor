@@ -1,4 +1,5 @@
-* {
+/* Body section */
+ {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -7,6 +8,10 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Body Ends */
+
+/* Header Start*/
 
 .header {
     padding: 20px;
@@ -24,7 +29,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +37,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -49,6 +54,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/*Hero image*/ 
 
 .hero {
     height: 800px;
@@ -68,7 +75,9 @@ p {
     float: right;
     margin-left: 25px;
 }
+/*Hero Ends*/
 
+/* Main section begins*/
 .content {
     width: 75%;
     display: inline-block;
