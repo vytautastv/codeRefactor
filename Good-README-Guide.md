@@ -1,7 +1,15 @@
-# Your Project Title
+# HTML, CSS, Git - Week 1 challenge
 
 ## Description 
+The purpose of this challenge was to improve the usage of semantic HTML elements for a landing page website. I was required to use the correct structure, and improve the accessibility by using descriptive alt tags for images. The CSS elements had to be grouped to reduce the total lines of code on the file and improve efficiency. The project also required the descriptive comments to be used throughout the project.
 
+Here is a list of criteria that has to be met to pass the challenge: 
+1. Semantic HTML elements can be found throughout the source code
+2. HTML elements follow a logical structure independent of styling and positioning
+3. Image and icon elements contain accessible alt attributes
+4. Heading attributes fall in sequential order
+5. Title elements contain a concise, descriptive title
+6. The website is functional and deployed to Github pages
 
 ## Installation
 
@@ -9,7 +17,6 @@ There is no installation needed for this website.
 
 ## Usage 
 This application was built for the purpose of completing a bootcamp test. Please access this link to view the live site on Github pages.
-
 
 ## Credits
 
