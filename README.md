@@ -16,16 +16,18 @@ Here is a list of criteria that has to be met to pass the challenge:
 There is no installation needed for this website.
 
 ## Usage 
-This application was built for the purpose of completing a bootcamp test. Please access this link to view the live site on Github pages.
+This application was built for the purpose of completing a bootcamp test. 
+[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/codeRefactor)
+[Click here to access the live website hosted on Github pages](https://vytautastv.github.io)
 
 ## Credits
 
 Tutorials/resources used to assist with this project:
 
-1. HTML elements: https://developer.mozilla.org/en-US/docs/Web/HTML/Element 
-2. HTML accessibility: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-3. Git commands guide: https://youtu.be/mJ-qvsxPHpY?si=hrjrNl7UcZ7e6aFs
-4. CSS selectors tutorial: https://youtu.be/l1mER1bV0N0?si=bpEWtqXew2Lxo7eU
+1. [HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+2. [HTML accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+3. [Git commands guide](https://youtu.be/mJ-qvsxPHpY?si=hrjrNl7UcZ7e6aFs)
+4. [CSS selectors tutorial](https://youtu.be/l1mER1bV0N0?si=bpEWtqXew2Lxo7eU)
 
 ## License
 This project is licensed under MIT, please refer to the LICENSE file that is seen in the codeRefactor repo to find additional details related to the license used in this project.
