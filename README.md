@@ -17,8 +17,10 @@ There is no installation needed for this website.
 
 ## Usage 
 This application was built for the purpose of completing a bootcamp test. 
-[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/codeRefactor)
-[Click here to access the live website hosted on Github pages](https://vytautastv.github.io)
+
+1.[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/codeRefactor)
+
+2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io)
 
 ## Credits
 
