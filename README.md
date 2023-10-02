@@ -20,7 +20,7 @@ This application was built for the purpose of completing a bootcamp test.
 
 1.[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/codeRefactor)
 
-2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io)
+2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io/codeRefactor/)
 
 Here is a screenshot of the finished landing page which can be accessed with the above link to Github pages: 
 
