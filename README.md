@@ -1,7 +1,7 @@
 # 01 HTML CSS Git: Code Refactor
 
 ## Description 
-The purpose of this challenge was to improve the usage of semantic HTML elements for a landing page website. I was required to use the correct structure, and improve the accessibility by using descriptive alt tags for images. The CSS elements had to be grouped to reduce the total lines of code on the file and improve efficiency. The project also required the descriptive comments to be used throughout the project.
+The purpose of this challenge was to improve the usage of semantic HTML elements and consolidate css selectors for a landing page website. I was required to use the correct structure, and improve the accessibility by using descriptive alt tags for images and the correct semantic elements where possible. The CSS elements had to be grouped to reduce the total lines of code on the file and improve efficiency. The project also required descriptive comments to be used throughout the project.
 
 Here is a list of criteria that has to be met to pass the challenge: 
 1. Semantic HTML elements can be found throughout the source code
@@ -21,6 +21,10 @@ This application was built for the purpose of completing a bootcamp test.
 1.[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/codeRefactor)
 
 2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io)
+
+Here is a screenshot of the finished landing page which can be accessed with the above link to Github pages: 
+
+![Hariseon Landing Page Finished screenshot](Assets/images/image.png)
 
 ## Credits
 
